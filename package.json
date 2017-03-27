@@ -1,6 +1,6 @@
 {
   "name": "proptype-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A webpack loader that parses JavaScript files and returns React propTypes.",
   "main": "index.js",
   "repository": "https://github.com/tajo/proptype-loader",
